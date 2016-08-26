@@ -1,0 +1,14 @@
+C:\DATA\QLSinhVienEF\SinhVienEF\SinhVienEF\bin\Debug\SinhVienEF.exe.config
+C:\DATA\QLSinhVienEF\SinhVienEF\SinhVienEF\bin\Debug\SinhVienEF.exe
+C:\DATA\QLSinhVienEF\SinhVienEF\SinhVienEF\bin\Debug\SinhVienEF.pdb
+C:\DATA\QLSinhVienEF\SinhVienEF\SinhVienEF\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DATA\QLSinhVienEF\SinhVienEF\SinhVienEF\obj\x86\Debug\SinhVienEF.Form1.resources
+C:\DATA\QLSinhVienEF\SinhVienEF\SinhVienEF\obj\x86\Debug\SinhVienEF.Properties.Resources.resources
+C:\DATA\QLSinhVienEF\SinhVienEF\SinhVienEF\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\DATA\QLSinhVienEF\SinhVienEF\SinhVienEF\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\DATA\QLSinhVienEF\SinhVienEF\SinhVienEF\obj\x86\Debug\SinhVienEF.exe
+C:\DATA\QLSinhVienEF\SinhVienEF\SinhVienEF\obj\x86\Debug\SinhVienEF.pdb
+C:\DATA\QLSinhVienEF\SinhVienEF\SinhVienEF\obj\x86\Debug\SinhVienEF.SinhVienMain.resources
+C:\DATA\QLSinhVienEF\SinhVienEF\SinhVienEF\obj\x86\Debug\SinhVienEF.QLNguoiDung.resources
+C:\DATA\QLSinhVienEF\SinhVienEF\SinhVienEF\obj\x86\Debug\SinhVienEF.KhoaHoc.resources
+C:\DATA\QLSinhVienEF\SinhVienEF\SinhVienEF\obj\x86\Debug\SinhVienEF.SVQL.resources
